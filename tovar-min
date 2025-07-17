@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-17 17:01">
+	<shop>
+		<name>ramen.ru</name>
+		<company>Ramen.ru</company>
+		<url>https://www.ramen.ru</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<delivery-options>
+			<option cost="300" days="0" order-before="12"/>
+		</delivery-options>
+		<categories>
+			<category id="314" order="314" picture="https://www.ramen.ru/upload/uf/112/cu2hfhny95t1qm2ooty9grc94g2i9b9s.jpg">Мясо, птица и утка</category>
+				<category id="369" order="369" picture="https://www.ramen.ru/upload/uf/740/a0n0aw5chi76a2vmgv00xnrneh3duxd1.jpg" parentId="314">Говядина</category>
+				<category id="371" order="371" picture="https://www.ramen.ru/upload/uf/5aa/7scmkp3hi9e84haodzndtz055gjf59g5.jpg" parentId="314">Свинина</category>
+				<category id="507" order="507" picture="" parentId="314">Курица</category>
+				<category id="508" order="508" picture="" parentId="314">Индейка</category>
+				<category id="509" order="509" picture="" parentId="314">Утка</category>
+				<category id="373" order="373" picture="https://www.ramen.ru/upload/uf/f3f/cfz5hapeivvutycw4xfwodfkev4z8erm.jpg" parentId="314">Фарш</category>
+				<category id="466" order="466" picture="https://www.ramen.ru/upload/uf/c2e/45vxaua03f7bxinda0snxhe4emfbl3eb.jpg" parentId="314">Полуфабрикаты охлажденные</category>
+				<category id="372" order="372" picture="https://www.ramen.ru/upload/uf/a2c/b7ouogukv5hq1cnh54j8dcg2gd6vqasf.jpg" parentId="314">Субпродукты</category>
+			<category id="315" order="315" picture="https://www.ramen.ru/upload/uf/573/6oxqk07o4v1vq0x9wn0m0ag45wid022b.jpg">Колбасы, сосиски и сардельки</category>
+				<category id="365" order="365" picture="https://www.ramen.ru/upload/uf/9f4/7ej9bww4cmb7r1t33jgy1kf0s1wegw09.jpg" parentId="315">Сырокопченая колбаса</category>
+				<category id="363" order="363" picture="https://www.ramen.ru/upload/uf/016/o8qpw2ocixxi6d7mmyjusf5j0ae5yicp.jpg" parentId="315">Полукопченая колбаса</category>
+				<category id="358" order="358" picture="https://www.ramen.ru/upload/uf/3b0/9yaophlc4f1hxt4t1cqhg69d2d93kwad.jpg" parentId="315">Варено-копченая колбаса</category>
+				<category id="359" order="359" picture="https://www.ramen.ru/upload/uf/c63/cxxsvp0b2llg99e2hjtktvqc6fcvq4lz.jpg" parentId="315">Вареная колбаса, ветчина</category>
+				<category id="362" order="362" picture="https://www.ramen.ru/upload/uf/6f2/q2g34iayk1wyvmvo0anavq0essc6x8fq.jpg" parentId="315">Ливерная колбаса, паштеты, холодцы</category>
+				<category id="364" order="364" picture="https://www.ramen.ru/upload/uf/a73/bpo3rh2g40xiat4s5o251lijqieqjkm2.jpg" parentId="315">Колбасная нарезка</category>
+				<category id="389" order="389" picture="https://www.ramen.ru/upload/uf/b86/txmhjd4vy5fd62690ce57ak011m8xzqq.jpg" parentId="315">Сосиски</category>
+				<category id="388" order="388" picture="https://www.ramen.ru/upload/uf/077/y6fado5s2jdo42dkhhey30tydv2f3kbm.jpg" parentId="315">Сардельки</category>
+			<category id="328" order="328" picture="https://www.ramen.ru/upload/uf/c70/3fkw1fj1ujdwmvqyyj341ryff15vjoom.jpg">Мясные деликатесы</category>
+				<category id="495" order="495" picture="https://www.ramen.ru/upload/uf/f79/44y2zl7btbd47nluq5qgl5vh1k2wyg61.jpg" parentId="328">Деликатесы из мяса</category>
+				<category id="493" order="493" picture="https://www.ramen.ru/upload/uf/cb2/0i86k3jtm4np0aqnd4eku3r2jeceviye.jpg" parentId="328">Деликатесы из птицы</category>
+				<category id="496" order="496" picture="" parentId="328">Деликатесная нарезка</category>
+			<category id="501" order="501" picture="https://www.ramen.ru/upload/uf/840/e9tkyto1g7b1zririifq122qff6qgkgh.jpg">Гриль сезон</category>
+				<category id="520" order="520" picture="" parentId="501">Шашлык</category>
+				<category id="521" order="521" picture="" parentId="520">Мясо</category>
+				<category id="522" order="522" picture="" parentId="520">Птица </category>
+				<category id="523" order="523" picture="" parentId="501">Колбаски, купаты</category>
+				<category id="524" order="524" picture="" parentId="501">Соусы,кетчупы</category>
+				<category id="525" order="525" picture="" parentId="501">Товары для пикника </category>
+			<category id="506" order="506" picture="https://www.ramen.ru/upload/uf/13f/xulhfgni70z1p7c8winqvzberlz9hp5r.jpg">Охлажденная мясная кулинария</category>
+			<category id="329" order="329" picture="https://www.ramen.ru/upload/uf/f21/xqv7j74i5pvkdape0nts07qdfcievyjo.jpg">Овощи, фрукты, зелень</category>
+				<category id="379" order="379" picture="https://www.ramen.ru/upload/uf/fd6/ggsqjauet3ng623euilavt8ne8rut6vv.jpg" parentId="329">Овощи</category>
+				<category id="434" order="434" picture="" parentId="379">Помидоры</category>
+				<category id="435" order="435" picture="" parentId="379">Огурцы</category>
+				<category id="436" order="436" picture="" parentId="379">Картофель</category>
+				<category id="440" order="440" picture="" parentId="379">Корнеплоды</category>
+				<category id="437" order="437" picture="" parentId="379">Лук, чеснок</category>
+				<category id="439" order="439" picture="" parentId="379">Перец</category>
+				<category id="438" order="438" picture="" parentId="379">Кабачки, баклажаны, капуста</category>
+				<category id="380" order="380" picture="https://www.ramen.ru/upload/uf/c20/gxg3k5v33y1e6p1ila6ayhuah0gbqe58.jpg" parentId="329">Фрукты</category>
+				<category id="441" order="441" picture="" parentId="380">Цитрусовые</category>
+				<category id="442" order="442" picture="" parentId="380">Яблоки, груши</category>
+				<category id="443" order="443" picture="" parentId="380">Тропические</category>
+				<category id="444" order="444" picture="" parentId="380">Экзотические фрукты</category>
+				<category id="381" order="381" picture="https://www.ramen.ru/upload/uf/8ab/ke9m2arxg9t8d56v8i171sj25frn1x79.jpg" parentId="329">Ягоды</category>
+				<category id="445" order="445" picture="" parentId="381">Ягоды </category>
+				<category id="446" order="446" picture="" parentId="381">Арбузы, дыни</category>
+				<category id="378" order="378" picture="https://www.ramen.ru/upload/uf/523/48gkam5mnprpwxxd8l90cqlkmd3u69tv.jpg" parentId="329">Зелень</category>
+			<category id="448" order="448" picture="https://www.ramen.ru/upload/uf/8ba/b28p66erqqf34ucjtn6leb52volwuc21.jpg">Здоровая еда</category>
+			<category id="330" order="330" picture="https://www.ramen.ru/upload/uf/653/bawwkqoxt9zt8bnm6u1288pbrze948ex.jpg">Готовая еда</category>
+				<category id="451" order="451" picture="" parentId="330">Супы</category>
+				<category id="452" order="452" picture="" parentId="330">Вторые блюда</category>
+			<category id="418" order="418" picture="https://www.ramen.ru/upload/uf/7bf/tg334dk8sgt92n1mc0nwype2fcidnbhi.jpg">Молочные продукты, яйцо и сыр</category>
+				<category id="419" order="419" picture="https://www.ramen.ru/upload/uf/1a6/a3ihcpdf49wh65u0bok2toey9impefi5.jpg" parentId="418">Молоко, сливки, сгущенка</category>
+				<category id="424" order="424" picture="https://www.ramen.ru/upload/uf/861/zadlpb2d465mcnt5ej6h67552w4ubuf1.jpg" parentId="418">Кефир, кисломолочные продукты</category>
+				<category id="426" order="426" picture="" parentId="418">Творог, творожная масса</category>
+				<category id="427" order="427" picture="" parentId="418">Сметана</category>
+				<category id="428" order="428" picture="https://www.ramen.ru/upload/uf/326/amyvdp2zinavv9y0yf6cizsnvj9i8463.jpg" parentId="418">Йогурты</category>
+				<category id="420" order="420" picture="https://www.ramen.ru/upload/uf/5ad/qlbitrl3ez82wpab7lkqoyu27kqkz4jw.jpg" parentId="418">Сырки,творожки, десерты</category>
+				<category id="423" order="423" picture="https://www.ramen.ru/upload/uf/8e4/s0jh1xhm7vhvqdt1h66wu08zegkhbfmi.jpg" parentId="418">Сыр</category>
+				<category id="527" order="527" picture="" parentId="423">Твердый</category>
+				<category id="528" order="528" picture="" parentId="423">Полутвердый</category>
+				<category id="529" order="529" picture="" parentId="423">Мягкий</category>
+				<category id="530" order="530" picture="" parentId="423">Плавленный</category>
+				<category id="526" order="526" picture="" parentId="418">Растительное молоко, напитки, десерты</category>
+				<category id="421" order="421" picture="https://www.ramen.ru/upload/uf/feb/to0cfr6h85vsa0ss5yizuymeu6g2erdq.jpg" parentId="418">Масло</category>
+				<category id="422" order="422" picture="https://www.ramen.ru/upload/uf/262/hlq3r73lput41rj1a4cterswnbz1wy0p.jpg" parentId="418">Яйца</category>
+			<category id="470" order="470" picture="https://www.ramen.ru/upload/uf/660/v4cern6ns3utsoa98rjqsxnbbxu0ytwa.jpg">Замороженные продукты</category>
+				<category id="472" order="472" picture="" parentId="470">Овощи, ягоды и смеси</category>
+				<category id="535" order="535" picture="" parentId="470">Полуфабрикаты, наггетсы</category>
+				<category id="536" order="536" picture="" parentId="535">Котлеты, шницель</category>
+				<category id="537" order="537" picture="" parentId="535">Колбаски и купаты</category>
+				<category id="538" order="538" picture="" parentId="535">Голубцы, перцы</category>
+				<category id="539" order="539" picture="" parentId="535">Наггетсы</category>
+				<category id="456" order="456" picture="" parentId="470">Пельмени, вареники и хинкали</category>
+				<category id="486" order="486" picture="https://www.ramen.ru/upload/uf/541/o97r4q4km7r0fhr12sl6zbejoocbzyvf.jpg" parentId="456">Пельмени</category>
+				<category id="540" order="540" picture="" parentId="456">Вареники</category>
+				<category id="541" order="541" picture="" parentId="456">Хинкали</category>
+				<category id="453" order="453" picture="" parentId="470">Блинчики, сырники, запеканка</category>
+				<category id="471" order="471" picture="https://www.ramen.ru/upload/uf/687/2hq5szrppa180is9lchffl4vy1hqkmax.jpg" parentId="470">Рыба и морепродукты </category>
+				<category id="542" order="542" picture="" parentId="471">Рыба</category>
+				<category id="543" order="543" picture="" parentId="471">Морепродукты </category>
+				<category id="544" order="544" picture="" parentId="471">Рыбные полуфабрикаты </category>
+				<category id="449" order="449" picture="https://www.ramen.ru/upload/uf/2d2/up54ceskvmcn5j422w34ssvnd6bnu405.jpg" parentId="470">Готовые блюда</category>
+				<category id="474" order="474" picture="" parentId="470">Мороженое и лёд</category>
+				<category id="475" order="475" picture="" parentId="470">Выпечка, десерты</category>
+				<category id="356" order="356" picture="https://www.ramen.ru/upload/uf/c5e/5n1uvp6myv4ziwxt195zdk9dq8x3j3o3.jpg" parentId="470">Пицца, тесто</category>
+			<category id="392" order="392" picture="https://www.ramen.ru/upload/uf/f5c/fwr1e62bqxg8ingj1fn554vdbwq2qo9b.jpg">Бакалея</category>
+				<category id="393" order="393" picture="https://www.ramen.ru/upload/uf/8a3/df1mfsaryaydf7zeukl6y5nmf8932do1.jpg" parentId="392">Макаронные изделия, крупы</category>
+				<category id="394" order="394" picture="https://www.ramen.ru/upload/uf/47b/lkmi0rwo1ifpjq5n49y5cdvu3a2r8v8e.jpg" parentId="392">Сухие завтраки и каши</category>
+				<category id="395" order="395" picture="https://www.ramen.ru/upload/uf/ea5/tibbsr0b6it8s4kb2jeckj540dpwadjk.jpg" parentId="392">Консервация, соленья</category>
+				<category id="397" order="397" picture="" parentId="395">Овощная</category>
+				<category id="398" order="398" picture="" parentId="395">Рыбная</category>
+				<category id="399" order="399" picture="" parentId="395">Фруктовая</category>
+				<category id="545" order="545" picture="" parentId="395">Соленья</category>
+				<category id="400" order="400" picture="https://www.ramen.ru/upload/uf/b64/peidy17yuslmeofc1ophv4lq5iyd4jos.jpg" parentId="392">Масло, соусы и кетчупы</category>
+				<category id="546" order="546" picture="" parentId="400">Масло </category>
+				<category id="547" order="547" picture="" parentId="400">Соус</category>
+				<category id="548" order="548" picture="" parentId="400">Кетчуп</category>
+				<category id="549" order="549" picture="" parentId="400">Маринады и уксус</category>
+				<category id="401" order="401" picture="https://www.ramen.ru/upload/uf/a55/mwkru1dnr65ftkltrxjhfro0b1y1sos6.jpg" parentId="392">Сахар, соль, специи, приправы</category>
+				<category id="550" order="550" picture="" parentId="392">Варенье, джемы и сиропы</category>
+				<category id="402" order="402" picture="https://www.ramen.ru/upload/uf/f38/nqb983swkg712xmjp21gvovimp1pwakw.jpg" parentId="392">Мука и всё для выпечки</category>
+				<category id="510" order="510" picture="" parentId="392">Кисели</category>
+			<category id="403" order="403" picture="https://www.ramen.ru/upload/uf/c2b/gl39kbwuiyjcptys8rwtoc0nnbyzj7l2.jpg">Вода, соки, напитки</category>
+				<category id="404" order="404" picture="https://www.ramen.ru/upload/uf/960/i4r7xhlgcojttjzbabx7z73actnos314.jpg" parentId="403">Вода и минеральная вода</category>
+				<category id="511" order="511" picture="" parentId="404">Питьевая вода</category>
+				<category id="512" order="512" picture="" parentId="404">Минеральная вода</category>
+				<category id="513" order="513" picture="" parentId="404">С газом</category>
+				<category id="514" order="514" picture="" parentId="404">Без газа</category>
+				<category id="406" order="406" picture="https://www.ramen.ru/upload/uf/03c/k0pdx49qkyb1r7chyx5fhm51w0a27guq.jpg" parentId="403">Соки, морсы</category>
+				<category id="405" order="405" picture="https://www.ramen.ru/upload/uf/41c/vit80zt3jq6u7svgtlth6c7frc133qzs.jpg" parentId="403">Газированные напитки</category>
+			<category id="408" order="408" picture="https://www.ramen.ru/upload/uf/a0c/51hfkoo2u14hux0bfkn83knqkt2orzu0.jpg">Чай, кофе, какао</category>
+				<category id="518" order="518" picture="" parentId="408">Черный чай</category>
+				<category id="519" order="519" picture="" parentId="408">Зеленый чай</category>
+				<category id="516" order="516" picture="" parentId="408">Кофе</category>
+				<category id="517" order="517" picture="" parentId="408">Какао, цикорий</category>
+			<category id="350" order="350" picture="https://www.ramen.ru/upload/uf/1d9/9ux7xjo5lgfla25hc95gu0mjok027o0l.jpg">Хлеб, выпечка и торты</category>
+				<category id="491" order="491" picture="https://www.ramen.ru/upload/uf/de6/mybttc06s22nve4ye9sdy5ems0e7n9ms.jpg" parentId="350">Хлеб и лаваш</category>
+				<category id="551" order="551" picture="" parentId="350">Баранки, сушки, хлебцы</category>
+				<category id="492" order="492" picture="https://www.ramen.ru/upload/uf/8e9/tdz01sqz9062bk47is7rdgk1mbb16obc.jpg" parentId="350">Выпечка</category>
+				<category id="414" order="414" picture="https://www.ramen.ru/upload/uf/7cc/xizcjac874rdr47lcaauu8ew0efhrd1m.jpg" parentId="350">Торты, пирожные</category>
+			<category id="409" order="409" picture="https://www.ramen.ru/upload/uf/752/sfxu7ywbqg4xny8xd9hhleasi8dnrh2z.jpg">Сладости и пирожные</category>
+				<category id="412" order="412" picture="https://www.ramen.ru/upload/uf/427/jgghzsm8fgj1hpfm1d99bjsp13d1vpq9.jpg" parentId="409">Вафли</category>
+				<category id="410" order="410" picture="https://www.ramen.ru/upload/uf/ce2/8u32qfr2k17v9ae711v1ase9sggdxi28.jpg" parentId="409">Конфеты и шоколад</category>
+				<category id="411" order="411" picture="https://www.ramen.ru/upload/uf/1af/v0cy02cujjzoqfx0qaldsoc743336gsn.jpg" parentId="409">Печенье, вафли и пряники</category>
+				<category id="416" order="416" picture="https://www.ramen.ru/upload/uf/503/azcbed9eew4rcj3mq0gsxu7rtfo9ofsi.jpg" parentId="409">Кондитерские изделия</category>
+				<category id="415" order="415" picture="https://www.ramen.ru/upload/uf/4d0/ea1l9lz0vdwg9c1bn9ykui1kti6qmdge.jpg" parentId="409">Шоколадные батончики</category>
+			<category id="417" order="417" picture="https://www.ramen.ru/upload/uf/686/7zdkhjdaul4jj03y22o4q9za7fdxhfyw.jpg">Орехи, снеки, чипсы</category>
+			<category id="497" order="497" picture="https://www.ramen.ru/upload/uf/273/2ptkr3zb5dhgh7swkzyblt4jkb8zfgko.jpg">Рыба и морепродукты</category>
+				<category id="487" order="487" picture="https://www.ramen.ru/upload/uf/42a/loqxdaiq7p7o93l7wztrrucumby16muf.jpg" parentId="497">Замороженная рыба</category>
+				<category id="488" order="488" picture="https://www.ramen.ru/upload/uf/e7e/yqmrmzucfm8nx997dxvz6e6a6l6dm15e.jpg" parentId="497">Рыбные полуфабрикаты</category>
+				<category id="489" order="489" picture="https://www.ramen.ru/upload/uf/1d1/3vsc9ipal7mtob6rymk9kecv79u87gbz.jpg" parentId="497">Морепродукты</category>
+				<category id="490" order="490" picture="https://www.ramen.ru/upload/uf/1a5/gv4irvtfcngkl83dufp5xr0qjvw3o0hf.jpg" parentId="497">Рыбные консервы и пресервы</category>
+			<category id="498" order="498" picture="https://www.ramen.ru/upload/uf/b41/2vorsf8wh78py9n7n9kged1bq5tuatjm.jpg">Товары для животных</category>
+				<category id="366" order="366" picture="https://www.ramen.ru/upload/uf/55d/kf1c8fsh1dxzz5rqv836w69o338if42n.jpg" parentId="498">Для кошек</category>
+				<category id="367" order="367" picture="https://www.ramen.ru/upload/uf/b79/e70vzg8hkpdw4olpnj4mdmj2n3lpru7p.jpg" parentId="498">Для собак</category>
+			<category id="458" order="458" picture="https://www.ramen.ru/upload/uf/bef/lpygxjpd12w2sc72wzjpna3abcaepoin.jpg">Гигиена и уход</category>
+				<category id="459" order="459" picture="https://www.ramen.ru/upload/uf/ad3/18anigd8cn24b7bdvrdlmpabcybco1aa.jpg" parentId="458">Мыло</category>
+				<category id="460" order="460" picture="https://www.ramen.ru/upload/uf/5a6/g8rv5w3aljw0hh8692kfsclkjo8d1pk0.jpg" parentId="458">Шампунь и гель для душа</category>
+				<category id="461" order="461" picture="https://www.ramen.ru/upload/uf/8c2/00r5n1yuj0df9or91o0nebctdvbjsd2g.jpg" parentId="458">Антиперсперанты и дезодоранты</category>
+				<category id="553" order="553" picture="" parentId="458">Туалетная бумага, салфетки, полотенца</category>
+				<category id="557" order="557" picture="" parentId="458">Уход за зубами и полостью рта</category>
+				<category id="558" order="558" picture="" parentId="458">Средства женской гигиены</category>
+			<category id="476" order="476" picture="https://www.ramen.ru/upload/uf/759/x369kkgiz2tuo75d6qmnjqh87y3xl14k.jpg">Мелочи возле кассы</category>
+				<category id="554" order="554" picture="" parentId="476">Шоколадные батончики </category>
+				<category id="555" order="555" picture="" parentId="476">Жвачки</category>
+			<category id="499" order="499" picture="https://www.ramen.ru/upload/uf/602/v48t62kh126pj6pn304jm3sw16ef2kng.jpg">Непродовольственные товары</category>
+				<category id="391" order="391" picture="https://www.ramen.ru/upload/uf/48e/vacxfg16w6021963w59dopqfc2i3zzv9.jpg" parentId="499">Товары для дома и кухни</category>
+				<category id="467" order="467" picture="https://www.ramen.ru/upload/uf/698/vv7xdpvlumg4g3z94s1sumhgxjwwa1tb.jpg" parentId="499">Товары для пикника</category>
+				<category id="468" order="468" picture="" parentId="467">Уголь , розжиг</category>
+				<category id="469" order="469" picture="" parentId="467">Решетки , мангалы и шампура</category>
+			<category id="485" order="485" picture="https://www.ramen.ru/upload/uf/84e/0uq7luf9tuis7zp0zpb47gj81501iiuu.jpg">Подарочные корзины</category>
+			<category id="504" order="504" picture="https://www.ramen.ru/upload/uf/8c7/oyx10gc3co00e75m0w9e29uuwcla03dg.jpg">Продукты ГОСТ</category>
+		</categories>
+
+		<offers>
+
+		<offer id="28504" available="true" group_id="13111" bid="80">
+			<name>Подарок Белая Салями</name>
+			<vendor></vendor>
+			<vendorCode>28504</vendorCode>
+			<url>https://www.ramen.ru/catalog/myasnye-delikatesy/delikatesnaya-narezka/podarok_belaya_salyami/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>496</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/0da/386mcfwwtlli3t7weag6afwl05q3gssl.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/564/s4jl0jqipyls9vj05q1qo5ixbh00t9l0.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit=""></param>
+			<description>
+			<![CDATA[
+				Описание: Колбаса Белая салями сырокопченая  – это деликатес первого сорта, который станет изысканным дополнением к вашему столу. Нежное куриное филе в сочетании с ароматным свиным шпиком и пряными специями создает неповторимый вкус, который никого не оставит равнодушным.
+				Состав: филе куриной грудки, шпик свиной, нитритно-посолочная смесь ( соль пищевая, фиксатор окраски – нитрит натрия), декстроза, соль  пищевая, клетчатка растительная, специи ( чеснок молотый, горчица молотая, перец чили молотый), мальтодекстрин, антиокислители – аскорбиновая кислота L-, аскорбат натрия, экстракты ( перец черный, чеснок, перец чили) масло растительное-подсолнечное, ароматизатор ветчины, перец белый молотый, стартовая культура (P. Pentosaceus. Staphylococcus carnosus, Staphylococcus xylosus, Lactobacillus sake, Ded. hansenii).
+			]]>
+			</description>
+			<price>1</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3133313131</barcode>
+		</offer>
+
+		<offer id="13793" available="true" group_id="13081" bid="80">
+			<name>Кетчуп Слобода Шашлычный 350 г</name>
+			<vendor></vendor>
+			<vendorCode>13793</vendorCode>
+			<url>https://www.ramen.ru/catalog/gril-sezon/sousy-ketchupy/ketchup_sloboda_shashlychnyy_350_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>524</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/0b4/mveomzpgfis58782cltmx4ohubvquzeh.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/ce9/807sgpoyesrnl3jfpyx8uppm9xq8xu7p.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="302;312;334;310;339;311;316;314;307;346;352;353;309;320;317;305;325;319;306;328;321;332;329;333;303;323;304;343;335;336;341;318;331;308;340;313;337;326;327;322;338;315;324;342;344;345;348;349;350;351;347;354;">1;1;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Соус из отборных томатов со свежим ароматом укропа, пикантностью чеснока и нежной сладостью красного перца. 
+				Состав: вода, томатная паста, сахар, сушеные овощи и специи (кориандр, укроп, зелень петрушки, паприка красная, паприка зеленая, сушеный чеснок, красный молотый перец), соль поваренная, уксус
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>109</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3133303831</barcode>
+		</offer>
+
+		<offer id="13793" available="true" group_id="13081" bid="80">
+			<name>Кетчуп Слобода Шашлычный 350 г</name>
+			<vendor></vendor>
+			<vendorCode>13793</vendorCode>
+			<url>https://www.ramen.ru/catalog/gril-sezon/sousy-ketchupy/ketchup_sloboda_shashlychnyy_350_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>548</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/0b4/mveomzpgfis58782cltmx4ohubvquzeh.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/ce9/807sgpoyesrnl3jfpyx8uppm9xq8xu7p.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="302;312;334;310;339;311;316;314;307;346;352;353;309;320;317;305;325;319;306;328;321;332;329;333;303;323;304;343;335;336;341;318;331;308;340;313;337;326;327;322;338;315;324;342;344;345;348;349;350;351;347;354;">1;1;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Соус из отборных томатов со свежим ароматом укропа, пикантностью чеснока и нежной сладостью красного перца. 
+				Состав: вода, томатная паста, сахар, сушеные овощи и специи (кориандр, укроп, зелень петрушки, паприка красная, паприка зеленая, сушеный чеснок, красный молотый перец), соль поваренная, уксус
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>109</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3133303831</barcode>
+		</offer>
+
+		<offer id="52412" available="true" group_id="13016" bid="80">
+			<name>Мясо для шашлыка свиное охлажденное</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>52412</vendorCode>
+			<url>https://www.ramen.ru/catalog/myaso-ptitsa-utka/svinina/myaso_dlya_shashlyka_svinoe_okhlazhdennoe/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>371</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/1b5/m03jtwpdaxbvs0y5yieem2x1tsrw5k08.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/64d/bduw5ee016djdwlrt21l2crawpw0hqvl.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="320;317;305;325;319;328;312;303;323;310;304;343;339;335;341;318;311;331;308;340;337;316;322;338;314;324;344;345;346;349;347;353;354;309;306;321;332;329;333;302;334;336;313;326;327;307;315;342;348;350;351;352;">1;1;1;1;1;1;0;1;1;0;1;1;0;0;0;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Свиное мясо для шашлыка — это постное мясо в оптимальном соотношении с жировыми прослойками, что гарантирует сочность и нежность готовому блюду. Наше мясо, Ваши любимые специи и обжарка на огне — всё, что нужно для идеального шашлыка! 
+				Состав: Свинина.
+			]]>
+			</description>
+			<price>551</price>
+			<unit>кг</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3133303136</barcode>
+		</offer>
+
+		<offer id="52412" available="true" group_id="13016" bid="80">
+			<name>Мясо для шашлыка свиное охлажденное</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>52412</vendorCode>
+			<url>https://www.ramen.ru/catalog/myaso-ptitsa-utka/svinina/myaso_dlya_shashlyka_svinoe_okhlazhdennoe/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>521</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/1b5/m03jtwpdaxbvs0y5yieem2x1tsrw5k08.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/64d/bduw5ee016djdwlrt21l2crawpw0hqvl.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="320;317;305;325;319;328;312;303;323;310;304;343;339;335;341;318;311;331;308;340;337;316;322;338;314;324;344;345;346;349;347;353;354;309;306;321;332;329;333;302;334;336;313;326;327;307;315;342;348;350;351;352;">1;1;1;1;1;1;0;1;1;0;1;1;0;0;0;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Свиное мясо для шашлыка — это постное мясо в оптимальном соотношении с жировыми прослойками, что гарантирует сочность и нежность готовому блюду. Наше мясо, Ваши любимые специи и обжарка на огне — всё, что нужно для идеального шашлыка! 
+				Состав: Свинина.
+			]]>
+			</description>
+			<price>551</price>
+			<unit>кг</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3133303136</barcode>
+		</offer>
+
+		<offer id="54243" available="true" group_id="13011" bid="80">
+			<name>Абрикосы Армения</name>
+			<vendor></vendor>
+			<vendorCode>54243</vendorCode>
+			<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/frukty/tropicheskie/abrikosy_armeniya/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>443</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/e35/1f6dpe261cjn40ti6ezymk2x831s9jsv.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/352/j0nzxkonk4o6ie10g0uz8pafor9ls7pq.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="334;310;339;314;346;309;320;317;305;325;319;306;328;321;332;329;333;302;312;303;323;304;343;335;336;341;318;311;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;348;349;350;351;347;352;353;354;">1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Абрикосы Армения
+				Состав: Абрикосы свежие
+			]]>
+			</description>
+			<price>291</price>
+			<unit>кг</unit>
+			<min_count>0.5</min_count>
+			<increment>0.5</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3133303131</barcode>
+		</offer>
+
+		<offer id="12706" available="true" group_id="12989" bid="80">
+			<name>Мороженое Ленинградское Ванильное в двойном шоколаде сливочное эскимо ГОСТ 10% 80 г</name>
+			<vendor></vendor>
+			<vendorCode>12706</vendorCode>
+			<url>https://www.ramen.ru/catalog/zamorozhennye-produkty/morozhenoe-i-lyed/morozhenoe_leningradskoe_vanilnoe_v_dvoynom_shokolade_slivochnoe_eskimo_gost_10_80_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>474</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/40a/gxutzrhmyzh16vswq9fygjn52q177ys6.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/e70/fr6rgzo3ogvs4dxfwqancl9kgvrziho9.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="325;329;333;312;334;323;310;304;343;339;336;341;311;308;337;316;322;314;307;315;324;344;345;346;350;347;353;354;309;320;317;305;319;306;328;321;332;302;303;335;318;331;340;313;326;327;338;342;348;349;351;352;">1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;0;1;0;0;1;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;1;</param>
+			<description>
+			<![CDATA[
+				Описание: Классическое сливочное мороженое эскимо в двойной шоколадной глазури. Рецептура с использованием только натуральных ингредиентов.
+				Состав: Молоко коровье цельное, масло сливочное, молоко цельное сгущенное с сахаром молоко цельное, молоко обезжиренное, сахар сахароза, сахар, вода питьевая, сыворотка молочная сухая, сухой глюкозный сироп, молоко цельное сухое, комплексная пищевая добавка эмульгатор- моно- и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь рожкового дерева, карбоксиметилцеллюлоза, ароматизатор пищевой Ваниль.
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>100</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393839</barcode>
+		</offer>
+
+		<offer id="3550" available="true" group_id="12968" bid="80">
+			<name>Колбаса Брезаола сыровяленая нарезка 80 г</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>3550</vendorCode>
+			<url>https://www.ramen.ru/catalog/kolbasy-sosiski-i-sardelki/kolbasnaya-narezka/kolbasa_brezaola_syrovyalenaya_narezka_80_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>364</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/ee0/bhhrtp4oucolh2wic3syir9xy2rml3g2.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/8dd/7bb0yt2dqy5dhn0kwubctwpbdwnjo2x6.jpg</picture>
+
+				<picture>https://www.ramen.ru/upload/iblock/139/7a4iu3kyty7u1pf55kpevspr2nmsdiau.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="309;320;317;305;325;319;306;328;321;332;329;333;302;312;303;334;323;310;304;343;339;335;336;341;318;311;331;308;340;313;337;316;326;327;322;338;314;307;315;324;342;344;345;346;348;349;350;351;347;352;353;354;">0;1;1;1;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;0;0;1;0;1;1;1;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Колбаса Брезаола сыровяленая нарезка 80 г
+				Состав: говядина, нитритно-посолочная смесь (соль пищевая , фиксатор окраски – нитрит натрия), соль пищевая, сахароза, декстроза, антиокислитель – аскорбат натрия, экстракты специй ( черный перец, можжевеловые ягоды, чеснок, мускат, эвкалипт), лактоза, мальтодекстрин, ароматизатор ( тип Хамон Иберико), усилитель вкуса и аромата – глутамат натрия 1-замещенный, чеснок свежий измельченный, перец черный молотый, перец душистый молотый, мускат молотый, имбирь молотый, перец белый молотый, сахар, клетчатка растительная, краситель- кармины, гороховые волокна, стартовая культура (P. Pentosaceus. Staphylococcus carnosus, Staphylococcus xylosus, Lactobacillus sake, Ded. hansenii).
+			]]>
+			</description>
+			<tags>
+				<tag name="NEW">Да</tag>
+			</tags>
+			<price>202</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393638</barcode>
+		</offer>
+
+		<offer id="95202" available="true" group_id="12964" bid="80">
+			<name>Колбаса Белая салями  нарезка 100 г</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>95202</vendorCode>
+			<url>https://www.ramen.ru/catalog/kolbasy-sosiski-i-sardelki/kolbasnaya-narezka/kolbasa_belaya_salyami_narezka_100_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>364</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/894/y9go3i2hqtmxvyrwrirdk838wbkxqq1w.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/310/fnfugyoxh66gg421iinwqkio8s2uvx81.jpg</picture>
+
+				<picture>https://www.ramen.ru/upload/iblock/db3/v509n40528ph72n0ktju6dcgf82s9udn.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="309;320;317;305;325;319;306;328;321;332;329;333;302;312;303;334;323;310;304;343;339;335;336;341;318;311;331;308;340;313;337;316;326;327;322;338;314;307;315;324;342;344;345;346;348;349;350;351;347;352;353;354;">1;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;0;1;1;0;1;1;1;0;1;1;1;1;1;1;0;1;1;1;1;0;1;1;1;1;1;1;1;0;1;1;0;1;1;1;1;</param>
+			<description>
+			<![CDATA[
+				Описание: Колбаса Белая салями сырокопченая  – это деликатес первого сорта, который станет изысканным дополнением к вашему столу. Нежное куриное филе в сочетании с ароматным свиным шпиком и пряными специями создает неповторимый вкус, который никого не оставит равнодушным.
+				Состав: филе куриной грудки, шпик свиной, нитритно-посолочная смесь ( соль пищевая, фиксатор окраски – нитрит натрия), декстроза, соль  пищевая, клетчатка растительная, специи ( чеснок молотый, горчица молотая, перец чили молотый), мальтодекстрин, антиокислители – аскорбиновая кислота L-, аскорбат натрия, экстракты ( перец черный, чеснок, перец чили) масло растительное-подсолнечное, ароматизатор ветчины, перец белый молотый, стартовая культура (P. Pentosaceus. Staphylococcus carnosus, Staphylococcus xylosus, Lactobacillus sake, Ded. hansenii).  
+			]]>
+			</description>
+			<price>154</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393634</barcode>
+		</offer>
+
+		<offer id="2395" available="true" group_id="12961" bid="80">
+			<name>Колбаса Салями Бордо полусухая сырокопченая</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>2395</vendorCode>
+			<url>https://www.ramen.ru/catalog/kolbasy-sosiski-i-sardelki/syrokopchenye-kolbasy/kolbasa_salyami_bordo_polusukhaya_syrokopchenaya/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>365</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/b52/x5rcck7t2zwqpzg02q7almz51jl5mnau.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/8d8/xsz5o65xupb1ok6x9zxq2lyk0jj2z1zi.jpg</picture>
+
+				<picture>https://www.ramen.ru/upload/iblock/6d3/3t8xnre81w6zrnwzz6g09a6pg75pkqer.jpg</picture>
+
+				<picture>https://www.ramen.ru/upload/iblock/1f1/0il5podqlojt8zhc5v5uvch2597bnrix.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="309;317;305;306;328;332;329;333;334;310;304;343;339;336;318;311;331;308;340;313;316;326;338;314;307;342;345;346;348;350;352;353;320;325;319;321;302;312;303;323;335;341;337;327;322;315;324;344;349;351;347;354;">0;1;1;1;1;1;1;1;1;0;1;1;0;0;1;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Насладитесь изысканным вкусом сырокопчёной колбасы «Салями Бордо», созданной по традиционному рецепту с современной ноткой. Нежное мясо птицы в сочетании с ароматным свиным шпиком придают колбасе насыщенный, слегка пикантный вкус с бархатистой текстурой.  <br />
+Особый шарм придаёт ягодная обсыпка – лёгкая кислинка клюквы или брусники гармонично дополняет глубокий мясной вкус, создавая неповторимый баланс. Идеально подходит для мясных нарезок, сырных тарелок, бутербродов и в качестве изысканной закуски к вину или пиву.
+				Состав: мясо куриное кусковое, грудка куриная, шпик свиной ,  соль  пищевая, усилитель вкуса и аромата  - глутамат натрия 1-замещенный, клетчатка растительная, масло растительное – подсолнечное,  антиокислитель – аскорбиновая кислота, стартовая культура (Staphylococcus carnosus, Lactobacillus sakei, сахароза), нитритно-посолочная смесь ( соль пищевая, фиксатор окраски – нитрит натрия), краситель – кармины.Состав обсыпки: вода, желатин свиной, агент влагоудерживающий – глицерин, сахар, инулин, регуляторы кислотности – лимонная кислота, ацетаты натрия, крахмал кукурузный, загуститель – карбоксиметилцеллюлоза, консервант – сорбат калия, ароматизатор ( содержит продукты переработки молока), краситель – кармины.
+			]]>
+			</description>
+			<tags>
+				<tag name="NEW">Да</tag>
+			</tags>
+			<price>1325</price>
+			<unit>кг</unit>
+			<min_count>0.2</min_count>
+			<increment>0.2</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393631</barcode>
+		</offer>
+
+		<offer id="90277" available="true" group_id="12943" bid="80">
+			<name>Блины с печенью  500 г</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>90277</vendorCode>
+			<url>https://www.ramen.ru/catalog/zamorozhennye-produkty/blinchiki/bliny_s_pechenyu_500_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>453</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/728/msf4u1r1ixai5uot6txsa2s35ujoi6e4.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/652/thfc083lr5ywgvqw5lv27m36hxi7tfr1.jpg</picture>
+
+				<picture>https://www.ramen.ru/upload/iblock/dbb/73cg9ljw2vbenwpy67vkr5ssufy6e9bk.jpg</picture>
+
+				<picture>https://www.ramen.ru/upload/iblock/3b2/t5za5rheq24g2adu0gk1k98os6scle9f.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="309;320;317;305;325;319;306;328;321;329;333;312;303;334;323;310;339;335;336;318;311;331;308;313;337;316;326;327;322;338;314;315;324;342;344;345;346;348;349;350;347;352;353;354;332;302;304;343;341;340;307;351;">1;1;1;1;1;1;1;0;0;1;0;1;1;1;0;0;0;1;1;1;1;0;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Вкусные и сытные блины с нежной начинкой из жареной говяжьей печени, пассерованного лука и моркови!
+				Состав: Начинка – печень говяжья (жареная)  измельченная, лук репчатый измельченный (пассерованный), морковь измельченная (пассерованная), масло растительное - подсолнечное, соль пищевая, перец черный молотый, мука пшеничная в/с, молоко восстановленное из сухого молока массовой долей жира 3,2% ( молоко сухое, молоко обезжиренное). тесто – мука пшеничная в/с, молоко восстановленное из сухого молока массовой долей жира 3,2% ( молоко сухое, молоко обезжиренное), масло растительное - подсолнечное, яйцо куриное, сахар-песок,  соль  пищевая, вода питьевая.
+			]]>
+			</description>
+			<tags>
+				<tag name="NEW">Да</tag>
+			</tags>
+			<price>325</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393433</barcode>
+		</offer>
+
+		<offer id="50819" available="true" group_id="12941" bid="80">
+			<name>Огурцы Машенька</name>
+			<vendor></vendor>
+			<vendorCode>50819</vendorCode>
+			<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/ovoshchi/ogurtsy/ogurtsy_mashenka/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>435</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/3f8/j2wdi2qr6dv3k8u3it1zlcvnt7tw73fj.png</picture>
+				<picture>https://www.ramen.ru/upload/iblock/663/a6udsyxgs2917w5k6lbs5ry9w9rjm07m.png</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="334;310;339;314;">1;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Огурцы среднеплодные – полезные и питательные овощи, которые идеально подходят для людей, придерживающихся здорового и диетического питания.
+				Состав: Огурцы свежие
+			]]>
+			</description>
+			<price>121</price>
+			<unit>кг</unit>
+			<min_count>0.3</min_count>
+			<increment>0.3</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393431</barcode>
+		</offer>
+
+		<offer id="54086" available="true" group_id="12929" bid="80">
+			<name>Перец зеленый Ростов</name>
+			<vendor></vendor>
+			<vendorCode>54086</vendorCode>
+			<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/ovoshchi/perets/perets_zelenyy_rostov/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>439</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/283/g0g57g2nce9wc645utjuencnykyv9ckt.png</picture>
+				<picture>https://www.ramen.ru/upload/iblock/335/q5uzeh11jk37by522m7zn6gdp1a34zbi.png</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="306;310;304;339;314;352;">1;0;1;0;0;1;</param>
+			<description>
+			<![CDATA[
+				Описание: Перец зеленый Ростов
+				Состав: Перец зеленый свежий
+			]]>
+			</description>
+			<price>215</price>
+			<unit>кг</unit>
+			<min_count>0.3</min_count>
+			<increment>0.3</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393239</barcode>
+		</offer>
+
+		<offer id="54350" available="true" group_id="12918" bid="80">
+			<name>Помидоры желтые крупные</name>
+			<vendor></vendor>
+			<vendorCode>54350</vendorCode>
+			<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/ovoshchi/pomidory/pomidory_zheltye_krupnye/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>434</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/808/0nfxgd0qeft933uz86okuqwy5003gpc2.png</picture>
+				<picture>https://www.ramen.ru/upload/iblock/3b7/pospxt8hm0a51z9ubbd36y0swphw2t40.png</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="306;334;310;339;314;346;309;320;317;305;325;319;328;321;332;329;333;302;312;303;323;304;343;335;336;341;318;311;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;348;349;350;351;347;352;353;354;">1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Помидоры желтые крупные
+				Состав: Помидоры желтые свежие
+			]]>
+			</description>
+			<price>305</price>
+			<unit>кг</unit>
+			<min_count>0.5</min_count>
+			<increment>0.5</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132393138</barcode>
+		</offer>
+
+		<offer id="42134" available="true" group_id="12897" bid="80">
+			<name>Геркулес Русский Продукт Детский 420 г</name>
+			<vendor></vendor>
+			<vendorCode>42134</vendorCode>
+			<url>https://www.ramen.ru/catalog/bakaleya/sukhie-zavtraki-i-kashi/gerkules_russkiy_produkt_detskiy_420_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>394</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/220/k603np6mhosrn41hejhi2kw8wripwpbt.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/d2e/zjs86wey5al055uop0ny9egt5xg6695r.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="305;312;310;304;339;318;311;314;352;309;320;317;325;319;306;328;321;332;329;333;302;303;334;323;343;335;336;341;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;346;348;349;350;351;347;353;354;">1;1;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Геркулес Русский Продукт Детский 420 г — овсяные хлопья без добавок. Произведены в России. 
+				Состав: Овсяные хлопья.
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>87</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383937</barcode>
+		</offer>
+
+		<offer id="57478" available="true" group_id="12885" bid="80">
+			<name>Мороженое Мишка пломбир 100 г</name>
+			<vendor></vendor>
+			<vendorCode>57478</vendorCode>
+			<url>https://www.ramen.ru/catalog/zamorozhennye-produkty/morozhenoe-i-lyed/morozhenoe_mishka_plombir_100_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>474</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/692/63dpj2q7wf22g0rq0d5wx0oekclr0l44.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/008/lsk6cs2d4i8lp5euaper8bfnksa7zfwq.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="320;332;333;302;334;310;343;339;335;311;313;337;322;338;314;307;315;342;345;346;350;347;353;309;317;305;325;319;306;328;321;329;312;303;323;304;336;341;318;331;308;340;316;326;327;324;344;348;349;351;352;354;">0;1;1;0;1;0;1;0;1;1;1;1;1;0;0;1;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;1;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Мороженое Мишка пломбир 100 г - изготавливается из натуральных сливок по технологии длительного томления смеси мороженого.
+				Состав: мороженое (сливки, молоко цельное, масло сливочное, вода питьевая, сахар, патока крахмальная, молоко цельное сгущённое с сахаром, молоко сухое обезжиренное, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы (камедь рожкового дерева, гуаровая камедь, каррагинан), ароматизаторы).
+			]]>
+			</description>
+			<price>110</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383835</barcode>
+		</offer>
+
+		<offer id="21276" available="true" group_id="12883" bid="80">
+			<name>Мороженое Oreo Сэндвич Ванильное с кусочками печенья 76 г</name>
+			<vendor></vendor>
+			<vendorCode>21276</vendorCode>
+			<url>https://www.ramen.ru/catalog/zamorozhennye-produkty/morozhenoe-i-lyed/morozhenoe_oreo_sendvich_vanilnoe_s_kusochkami_pechenya_76_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>474</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/6aa/ne1lku69zso0dkrjyqtgapu4izik64hz.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/818/1m9hu6v73uf3gy2sutdnro0rwrttn70p.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="320;328;332;312;303;334;310;304;343;339;335;311;313;337;338;314;307;342;346;352;354;309;317;305;325;319;306;321;329;333;302;323;336;341;318;331;308;340;316;326;327;322;315;324;344;345;348;349;350;351;347;353;">1;1;1;0;1;1;0;1;0;0;1;1;1;1;1;0;1;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;1;</param>
+			<description>
+			<![CDATA[
+				Описание: Сливочное ванильное мороженое без растительных жиров с кусочками культового печенья Oreo между двух гигантских печенек.
+				Состав: Печенье Oreo (мука пшеничная (содержит глютен), сахар, масло пальмовое, какао-порошок, сироп глюкозно-фруктозный, соль, разрыхлители: гидрокарбонат натрия, гидрокарбонат аммония; экстракт ванили, эмульгатор лецитин соевый), восстановленное молоко (вода питьевая, сухое обезжиренное молоко), глюкозный сироп, масло сливочное, сахар, печенье дробленое (мука пшеничная (содержит глютен), сахар, масло растительное, какао-порошок, сироп глюкозно-фруктозный, крахмал кукурузный, разрыхлитель гидрокарбонат натрия, соль, эмульгатор лецитин соевый, ароматизатор), сыворотка молочная сухая, сливки сухие, стабилизаторы: гуаровая камедь, камедь рожкового дерева, каррагинан из водорослей; эмульгатор моно- и диглицериды жирных кислот. Продукт может содержать орехи, яйца. Важно: дети младше 4 лет имеют ограниченную жевательную функцию и могут подавиться небольшими кусочками печенья.
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>106</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383833</barcode>
+		</offer>
+
+		<offer id="22222" available="true" group_id="12879" bid="80">
+			<name>Пирожное Орион Чокопай 120 г</name>
+			<vendor></vendor>
+			<vendorCode>22222</vendorCode>
+			<url>https://www.ramen.ru/catalog/sladosti-pirozhnye-torty/konditerskie-izdeliya/pirozhnoe_orion_chokopay_120_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>416</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/bbc/qd4x9yr1s8ojk02hgp64cn0o8ue7uhbz.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/cb3/x1ahvbbvgh789pmaxcvtitdm8jimw9g5.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="305;325;302;312;334;310;339;311;316;314;352;309;320;317;319;306;328;321;332;329;333;303;323;304;343;335;336;341;318;331;308;340;313;337;326;327;322;338;307;315;324;342;344;345;346;348;349;350;351;347;353;354;">1;1;1;1;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Это нежный бисквит с оригинальной зефирной начинкой маршмеллоу, покрытый плотным слоем шоколадной глазури. При его производстве не использовались консерванты, искусственные красители, глутамат натрия, трансгены, ГМО и трансжиры. НИИ питания РАМН включил пирожное Orion Choco Pie в список сбалансированных завтраков. Каждое изделие находится в индивидуальной упаковке, поэтому остается свежим и мягким длительное время. Его удобно брать с собой в дорогу или на работу, давать ребенку в школу или на прогулку.
+				Состав: Мука пшеничная, сахар, вода питьевая, патока, жир кондитерский (рафинированные дезодорированные растительные масла (пальмовое, подсолнечное, соевое), эмульгатор (лецитин соевый),антиокислители (Е319 лимонная кислота)), жир специального назначения (рафинированные дезодорированные растительные масла (пальмовое, пальмоядровое, масло ши), эмульгаторы (лецитин соевый, сорбитан тристеарат)), какао-порошок, молоко сухое цельное, разрыхлители (гидрокарбонат натрия, гидрокарбонат аммония, ортофосфат кальция Т-замещенный), глюкоза, желатин пищевой, яичные продукты, соль, какао тертое, ароматизатор (ванилин), эмульгатор (лецитин соевый), гидролизат молочного белка загуститель (ксантановая камедь).
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>71</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383739</barcode>
+		</offer>
+
+		<offer id="52849" available="true" group_id="12877" bid="80">
+			<name>Арбуз Иран</name>
+			<vendor></vendor>
+			<vendorCode>52849</vendorCode>
+			<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/yagody/arbuzy-dyni/arbuz-iran/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>446</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/c4b/hrg10066dq06o12fb264ylocl9xxpazj.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/2a9/q6vj6dq4qil6t8jdoeyi5hs8iq8fcums.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="302;312;310;339;314;309;320;317;305;325;319;306;328;321;332;329;333;303;334;323;304;343;335;336;341;318;311;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;346;348;349;350;351;347;352;353;354;">1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Благодаря идеальным условиям выращивания арбузы из Ирана обладают сочным и ярко-сладкий вкусом.
+				Состав: арбуз
+			]]>
+			</description>
+			<price>166</price>
+			<unit>кг</unit>
+			<min_count>5</min_count>
+			<increment>5</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383737</barcode>
+		</offer>
+
+		<offer id="51936" available="true" group_id="12876" bid="80">
+			<name>Нектарины розовые Узбекистан</name>
+			<vendor></vendor>
+			<vendorCode>51936</vendorCode>
+			<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/frukty/ekzoticheskie-frukty/nektariny_rozovye_uzbekistan/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>444</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/fb7/id969f6w9hsz3xa8v9njqh0n9a8qewrb.png</picture>
+				<picture>https://www.ramen.ru/upload/iblock/115/lq9bb5wfcqn9c01qihcbe6kc79eong06.png</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="317;302;312;310;339;311;314;346;352;309;320;305;325;319;306;328;321;332;329;333;303;334;323;304;343;335;336;341;318;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;348;349;350;351;347;353;354;">1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Нектарин - это фрукт, представляющий собой персик с гладкой кожицей. Названия плода происходит от слова нектар, так как характеризуется повышенным содержанием сахара - нектара. Из-за отсутствия пушка фрукт выглядит очень ярко.
+				Состав: Нектарины свежие
+			]]>
+			</description>
+			<price>210</price>
+			<unit>кг</unit>
+			<min_count>0.5</min_count>
+			<increment>0.5</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383736</barcode>
+		</offer>
+
+		<offer id="39873" available="true" group_id="12870" bid="80">
+			<name>Сыр Президент Классическая коллекция 45% Плавленый 140 г</name>
+			<vendor></vendor>
+			<vendorCode>39873</vendorCode>
+			<url>https://www.ramen.ru/catalog/molochnye-produkty-yaytso-i-syr/syr/plavlennyy/syr_prezident_klassicheskaya_kollektsiya_45_plavlenyy_140_g/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>530</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/4b4/zzwex33qfkcikqujel8p2iquegpabaje.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/0fd/wdf8158r00gf1to7yaacxbc0c6rqqcdf.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="317;310;339;314;307;">1;0;0;0;1;</param>
+			<description>
+			<![CDATA[
+				Описание: Сыр Президент Классическая коллекция Плавленый 45&#37; 140 г — ассорти из 8 треугольников с разными вкусами: ветчинным, грибным и сливочным.
+				Состав: сыр, вода питьевая, масло сливочное, сухое обезжиренное молоко, творог, молочный белок; (для сыра Сливочный –сливки сухие; для сыра с ветчиной – говядина, вода питьевая, соль, загустители (Е1442, Е407, E412, E415, E410), регуляторы кислотности (лимонная кислота, Е327, Е450,Е451), антиокислитель изоаскорбат натрия, усилители вкуса и аромата (Е621, Е627, Е631, Е635), смесь специй, фиксатор окраски (Е250), сок красной свеклы, мальтодекстрин, ароматизатор, агент антислеживающий (Е551); для сыра с грибами – лук сушеный, маслята сушеные, соль, ароматизатор, усилители вкуса и аромата (Е621, Е635)); загустители(Е1422, Е407), эмульгаторы (Е452, E331, Е450, E339), сыворотка молочная сухая, регулятор кислотности лимонная кислота, соль, стабилизатор (Е415)
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>154</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383730</barcode>
+		</offer>
+
+		<offer id="57844" available="true" group_id="12869" bid="80">
+			<name>Коктейль Oh! Dessert молочный со вкусом пломбира 2%  900 мл</name>
+			<vendor></vendor>
+			<vendorCode>57844</vendorCode>
+			<url>https://www.ramen.ru/catalog/molochnye-produkty-yaytso-i-syr/rastitelnoe-moloko-napitki-deserty/kokteyl_oh_dessert_molochnyy_so_vkusom_plombira_2_900_ml/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>526</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/d12/5w72j9rgg6wp8o09hrppa40159il0sao.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/f2b/0h5kvp24vs4pjcapn6m55ra5cwdzy7kb.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="309;310;339;311;314;352;320;317;305;325;319;306;328;321;332;329;333;302;312;303;334;323;304;343;335;336;341;318;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;346;348;349;350;351;347;353;354;">0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Коктейль Экомилк Oh! Dessert молочный со вкусом пломбира 2&#37;  900 мл
+				Состав: нормализованное молоко, сахар, мороженое пломбир ванильный (молоко коровье цельное, молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахароза, лактоза), сливки натуральные, масло сливочное, сахар, молоко сухое обезжиренное, глюкозный сироп, комплексная пищевая добавка (эмульгатор моно-и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь рожкового дерева, камедь тары, каррагинан), ароматизатор натуральный ваниль), ароматизатор, стабилизатор – каррагинан
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>132</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383639</barcode>
+		</offer>
+
+		<offer id="57843" available="true" group_id="12868" bid="80">
+			<name>Коктейль Экомилк Oh!Dessert молочный клубничный 2% 900 мл</name>
+			<vendor></vendor>
+			<vendorCode>57843</vendorCode>
+			<url>https://www.ramen.ru/catalog/molochnye-produkty-yaytso-i-syr/rastitelnoe-moloko-napitki-deserty/kokteyl_ekomilk_oh_dessert_molochnyy_klubnichnyy_2_900_ml/</url>
+			<oldprice></oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>526</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/d38/vu7g4sgh1i9j15l5wqup6hw7oq9r0d17.jpg</picture>
+				<picture>https://www.ramen.ru/upload/iblock/388/gm5sv7v8ka508t547r3hrde4jpq4y561.jpg</picture>
+
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="309;317;312;310;343;339;311;314;320;305;325;319;306;328;321;332;329;333;302;303;334;323;304;335;336;341;318;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;346;348;349;350;351;347;352;353;354;">0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;</param>
+			<description>
+			<![CDATA[
+				Описание: Коктейль Экомилк Oh!Dessert молочный клубничный 2&#37; 900 мл
+				Состав: нормализованное молоко, сахар, клубничное пюре замороженное, ароматизатор, краситель – кармины, стабилизатор – каррагинан.
+			]]>
+			</description>
+			<tags>
+				<tag name="SPECIAL_OFFER">Да</tag>
+			</tags>
+			<price>132</price>
+			<unit>шт</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>шт</price_unit>
+			<price_factor>1</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3132383638</barcode>
+		</offer>
+
+
+			</offers>
+	</shop>
+</yml_catalog>
