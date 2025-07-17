@@ -57,7 +57,6 @@
 			<category id="444" order="444" picture="" parentId="380">Экзотические фрукты</category>
 			<category id="381" order="381" picture="https://www.ramen.ru/upload/uf/8ab/ke9m2arxg9t8d56v8i171sj25frn1x79.jpg" parentId="329">Ягоды</category>
 			<category id="445" order="445" picture="" parentId="381">Ягоды </category>
-			<category id="446" order="446" picture="" parentId="381">Арбузы, дыни</category>
 			<category id="378" order="378" picture="https://www.ramen.ru/upload/uf/523/48gkam5mnprpwxxd8l90cqlkmd3u69tv.jpg" parentId="329">Зелень</category>
 			<category id="448" order="448" picture="https://www.ramen.ru/upload/uf/8ba/b28p66erqqf34ucjtn6leb52volwuc21.jpg">Здоровая еда</category>
 			<category id="330" order="330" picture="https://www.ramen.ru/upload/uf/653/bawwkqoxt9zt8bnm6u1288pbrze948ex.jpg">Готовая еда</category>
@@ -130470,60 +130469,6 @@
 				<stock id="31738">
 					<available>true</available>
 					<price>515.00</price>
-				</stock>
-			</offer>
-
-			<offer group_id="51196" bid="80" id="51196" available="true">
-				<name>Арбуз</name>
-				<vendor/>
-				<vendorCode>51196</vendorCode>
-				<url>https://www.ramen.ru/catalog/ovoshchi-frukty-zelen/yagody/arbuzy-dyni/arbuz/</url>
-				<oldprice/>
-				<currencyId>RUR</currencyId>
-				<categoryId>446</categoryId>
-				<picture>https://www.ramen.ru/upload/iblock/f54/cum56114yiwty80izs34go1u2li2hade.jpg</picture>
-				<store>false</store>
-				<pickup>true</pickup>
-				<delivery>true</delivery>
-				<delivery-options>
-					<option cost="300" days="0" order-before="12"/>
-				</delivery-options>
-				<param name="placemark_amount" unit="310;304;314;317;334;339;346;309;320;305;325;319;306;328;321;332;329;333;302;312;303;323;343;335;336;341;318;311;331;308;340;313;337;316;326;327;322;338;307;315;324;342;344;345;348;349;350;351;347;352;353;354;">0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;</param>
-				<description>
-			
-				&lt;b&gt;Описание:&lt;/b&gt; Арбуз обладает приятным освежающим вкусом. Продукт отличается низкой калорийностью не содержит вредных жиров и холестерина. Он содержит витамин С который считается антиоксидантом, укрепляет стенки сосудов и способствует повышению иммунитета. В составе арбуза также есть фолиевая кислота, полезная для когнитивных функций, а также полезные для организма минералы – марганец, калий, магний. При подаче к столу продукт очищают от кожуры, нарезают ломтиками или дольками. Для детского торжества можно придумать более оригинальный способ. Например, нарезать мякоть сочного плода с помощью формочек для печенья.
-				&lt;br&gt;&lt;br&gt;&lt;b&gt;Состав:&lt;/b&gt; Арбуз
-			
-			</description>
-			<tags>
-			</tags>
-
-				<unit>кг</unit>
-				<min_count>5.0001</min_count>
-				<increment>5.0001</increment>
-				<price_unit>г</price_unit>
-				<price_factor>1000</price_factor>
-				<sales_notes>Необходима предоплата.</sales_notes>
-				<manufacturer_warranty>true</manufacturer_warranty>
-				<country_of_origin>Россия</country_of_origin>
-				<barcode>37323832</barcode>
-				<price>70.00</price>
-				<available>true</available>
-				<stock id="32055">
-					<available>true</available>
-					<price>70.00</price>
-				</stock>
-				<stock id="28679">
-					<available>true</available>
-					<price>70.00</price>
-				</stock>
-				<stock id="36305">
-					<available>true</available>
-					<price>70.00</price>
-				</stock>
-				<stock id="31621">
-					<available>true</available>
-					<price>70.00</price>
 				</stock>
 			</offer>
 
